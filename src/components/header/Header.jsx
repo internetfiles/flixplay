@@ -71,7 +71,7 @@ const Header = () => {
             navigate("/explore/anime");
         }
         else{
-            navigate("/explore/livetv");
+            navigate("https://bracemascara.com/bnvieeedg?key=96d8c04ad6682d56e2cf52b66c8d026d");
         }
         setMobileMenu(false);
     };
